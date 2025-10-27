@@ -1,0 +1,32 @@
+# Build outputs
+bin/
+obj/
+
+# VS/VSCode
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Packages (handled by NuGet)
+packages/
+*.nupkg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Emgu/OpenCV caches
+*.cache
+
+# App data
+OpenCVYuzTanima.runtimeconfig.dev.json
+
+# Datasets (keep images optional)
+# Uncomment to ignore dataset images from git
+# dataset/
