@@ -82,7 +82,7 @@ dotnet build -c Debug
 - Veri temizleme aracı (dataset’teki bozuk görselleri tespit etme)
 
 ## Lisans
-- Bu proje için uygun bir lisans ekleyebilirsin (ör. MIT). Emgu CV/OpenCV lisans koşullarına uy.
+- MIT
 
 ## Katkı
 - Issue ve PR’lere açıktır. İyileştirme önerilerini bekliyorum.
